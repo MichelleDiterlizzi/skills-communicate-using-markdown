@@ -13,3 +13,7 @@ class Bloque{
 }
 ?>
 ```
+
+- [x] Hacer la compra
+- [x] Regar las plantas
+- [ ] Sacarme el carnet
